@@ -9,10 +9,10 @@
 		<div class="welcome_msg">
 			<h1>Today's Inspiration</h1>
 			<p>
-				One day your life <br>
-				will flash before your eyes. <br>
-				Make sure it's worth watching. <br>
-
+			Je ne suis rien, je le sais, <br>
+			mais je compose mon rien <br>
+			avec un petit morceau de tout<br>
+			<span>Victor Hugo</span>
 			</p>
 			<a href="register.php" class="btn">register now!</a>
 		</div>
